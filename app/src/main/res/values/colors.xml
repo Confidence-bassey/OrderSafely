@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#0099ff</color>
+    <color name="Sapphire_Blue">#0F52BA</color>
+    <color name="blue_1">#090Def</color>
+    <color name="blue_2">#90eDef</color>
+    <color name="blue_3">#00A3FF</color>
+    <color name="blue1">#0700C4</color>
+    <color name="blue_5">#0000FF</color>
+    <color name="blue_6">#0052FF</color>
+    <color name="blue4">#007AFF</color>
+    <color name="blue5">#00A3FF</color>
+    <color name="blue6">#00CCFF</color>
+    <color name="blue7">#0098FF</color>
+    <color name="blue8">#0098FE</color>
+    <color name="magneta">#CC1B9A</color>
+    <color name="Rusty">#DA2CA3</color>
+    <color name="magneta1">#FF1DCE</color>
+
+    <color name="green">#009c1a</color>
+    <color name="Plum">#601A3E</color>
+    <color name="Boysenberry">#873260</color>
+    <color name="floral">#B47EE5</color>
+    <color name="nyellow">#870</color>
+    <color name="Fire">#FCA510</color>
+    <color name="Ochre">#CC7722</color>
+    <color name="canary">#FFEF00</color>
+    <color name="Dijon">#C49102</color>
+    <color name="mulberry">#4C0212</color>
+    <color name="jam">#A50B5E</color>
+    <color name="eggplant">#311465</color>
+    <color name="wine">#2C041D</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chartreuse">#DFFE00</color>
+    <color name="brown_shade">#DF9324</color>
+
+
+</resources>
